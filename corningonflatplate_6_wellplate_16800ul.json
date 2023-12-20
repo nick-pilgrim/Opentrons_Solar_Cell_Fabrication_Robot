@@ -1,0 +1,119 @@
+{
+    "ordering": [
+        [
+            "A1",
+            "B1"
+        ],
+        [
+            "A2",
+            "B2"
+        ],
+        [
+            "A3",
+            "B3"
+        ]
+    ],
+    "brand": {
+        "brand": "corning on flat plate",
+        "brandId": [
+            "n/a"
+        ]
+    },
+    "metadata": {
+        "displayName": "Corning On Flat Plate 6 Well Plate 16800 µL",
+        "displayCategory": "wellPlate",
+        "displayVolumeUnits": "µL",
+        "tags": []
+    },
+    "dimensions": {
+        "xDimension": 127.76,
+        "yDimension": 85.47,
+        "zDimension": 25.47
+    },
+    "wells": {
+        "A1": {
+            "depth": 17.4,
+            "totalLiquidVolume": 16800,
+            "shape": "circular",
+            "diameter": 35.43,
+            "x": 24.76,
+            "y": 62.28,
+            "z": 8.07
+        },
+        "B1": {
+            "depth": 17.4,
+            "totalLiquidVolume": 16800,
+            "shape": "circular",
+            "diameter": 35.43,
+            "x": 24.76,
+            "y": 23.16,
+            "z": 8.07
+        },
+        "A2": {
+            "depth": 17.4,
+            "totalLiquidVolume": 16800,
+            "shape": "circular",
+            "diameter": 35.43,
+            "x": 63.88,
+            "y": 62.28,
+            "z": 8.07
+        },
+        "B2": {
+            "depth": 17.4,
+            "totalLiquidVolume": 16800,
+            "shape": "circular",
+            "diameter": 35.43,
+            "x": 63.88,
+            "y": 23.16,
+            "z": 8.07
+        },
+        "A3": {
+            "depth": 17.4,
+            "totalLiquidVolume": 16800,
+            "shape": "circular",
+            "diameter": 35.43,
+            "x": 103,
+            "y": 62.28,
+            "z": 8.07
+        },
+        "B3": {
+            "depth": 17.4,
+            "totalLiquidVolume": 16800,
+            "shape": "circular",
+            "diameter": 35.43,
+            "x": 103,
+            "y": 23.16,
+            "z": 8.07
+        }
+    },
+    "groups": [
+        {
+            "metadata": {
+                "wellBottomShape": "flat"
+            },
+            "wells": [
+                "A1",
+                "B1",
+                "A2",
+                "B2",
+                "A3",
+                "B3"
+            ]
+        }
+    ],
+    "parameters": {
+        "format": "irregular",
+        "quirks": [],
+        "isTiprack": false,
+        "isMagneticModuleCompatible": false,
+        "loadName": "corningonflatplate_6_wellplate_16800ul"
+    },
+    "namespace": "custom_beta",
+    "version": 1,
+    "schemaVersion": 2,
+    "cornerOffsetFromSlot": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}

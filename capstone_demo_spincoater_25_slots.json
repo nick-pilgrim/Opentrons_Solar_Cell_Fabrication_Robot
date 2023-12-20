@@ -1,0 +1,355 @@
+{
+    "ordering": [
+        [
+            "A1",
+            "B1",
+            "C1",
+            "D1",
+            "E1"
+        ],
+        [
+            "A2",
+            "B2",
+            "C2",
+            "D2",
+            "E2"
+        ],
+        [
+            "A3",
+            "B3",
+            "C3",
+            "D3",
+            "E3"
+        ],
+        [
+            "A4",
+            "B4",
+            "C4",
+            "D4",
+            "E4"
+        ],
+        [
+            "A5",
+            "B5",
+            "C5",
+            "D5",
+            "E5"
+        ]
+    ],
+    "brand": {
+        "brand": "Capstone Project",
+        "brandId": []
+    },
+    "metadata": {
+        "displayName": "Capstone Demo Spincoater with 25 slots",
+        "displayCategory": "wellPlate",
+        "displayVolumeUnits": "µL",
+        "tags": []
+    },
+    "dimensions": {
+        "xDimension": 127.76,
+        "yDimension": 85.47,
+        "zDimension": 87
+    },
+    "wells": {
+        "A1": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 69.3,
+            "y": 39.9,
+            "z": 86
+        },
+        "B1": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 69.3,
+            "y": 34.9,
+            "z": 86
+        },
+        "C1": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 69.3,
+            "y": 29.9,
+            "z": 86
+        },
+        "D1": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 69.3,
+            "y": 24.9,
+            "z": 86
+        },
+        "E1": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 69.3,
+            "y": 19.9,
+            "z": 86
+        },
+        "A2": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 74.3,
+            "y": 39.9,
+            "z": 86
+        },
+        "B2": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 74.3,
+            "y": 34.9,
+            "z": 86
+        },
+        "C2": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 74.3,
+            "y": 29.9,
+            "z": 86
+        },
+        "D2": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 74.3,
+            "y": 24.9,
+            "z": 86
+        },
+        "E2": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 74.3,
+            "y": 19.9,
+            "z": 86
+        },
+        "A3": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 79.3,
+            "y": 39.9,
+            "z": 86
+        },
+        "B3": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 79.3,
+            "y": 34.9,
+            "z": 86
+        },
+        "C3": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 79.3,
+            "y": 29.9,
+            "z": 86
+        },
+        "D3": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 79.3,
+            "y": 24.9,
+            "z": 86
+        },
+        "E3": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 79.3,
+            "y": 19.9,
+            "z": 86
+        },
+        "A4": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 84.3,
+            "y": 39.9,
+            "z": 86
+        },
+        "B4": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 84.3,
+            "y": 34.9,
+            "z": 86
+        },
+        "C4": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 84.3,
+            "y": 29.9,
+            "z": 86
+        },
+        "D4": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 84.3,
+            "y": 24.9,
+            "z": 86
+        },
+        "E4": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 84.3,
+            "y": 19.9,
+            "z": 86
+        },
+        "A5": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 89.3,
+            "y": 39.9,
+            "z": 86
+        },
+        "B5": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 89.3,
+            "y": 34.9,
+            "z": 86
+        },
+        "C5": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 89.3,
+            "y": 29.9,
+            "z": 86
+        },
+        "D5": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 89.3,
+            "y": 24.9,
+            "z": 86
+        },
+        "E5": {
+            "depth": 1,
+            "totalLiquidVolume": 14,
+            "shape": "rectangular",
+            "xDimension": 5,
+            "yDimension": 5,
+            "x": 89.3,
+            "y": 19.9,
+            "z": 86
+        }
+    },
+    "groups": [
+        {
+            "metadata": {
+                "wellBottomShape": "flat"
+            },
+            "wells": [
+                "A1",
+                "B1",
+                "C1",
+                "D1",
+                "E1",
+                "A2",
+                "B2",
+                "C2",
+                "D2",
+                "E2",
+                "A3",
+                "B3",
+                "C3",
+                "D3",
+                "E3",
+                "A4",
+                "B4",
+                "C4",
+                "D4",
+                "E4",
+                "A5",
+                "B5",
+                "C5",
+                "D5",
+                "E5"
+            ]
+        }
+    ],
+    "parameters": {
+        "format": "irregular",
+        "quirks": [],
+        "isTiprack": false,
+        "isMagneticModuleCompatible": false,
+        "loadName": "capstone_demo_spincoater_25_slots"
+    },
+    "namespace": "custom_beta",
+    "version": 1,
+    "schemaVersion": 2,
+    "cornerOffsetFromSlot": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}
